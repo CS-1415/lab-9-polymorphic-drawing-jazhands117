@@ -1,0 +1,12 @@
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\bin\Debug\net8.0\Lab09.deps.json
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\bin\Debug\net8.0\Lab09.dll
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\bin\Debug\net8.0\Lab09.pdb
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.AssemblyInfoInputs.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.AssemblyInfo.cs
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.sourcelink.json
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.dll
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\refint\Lab09.dll
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\Lab09.pdb
+C:\Users\Jasmine Johnson\my-code-dir\lab-9-polymorphic-drawing-jazhands117\Lab09\obj\Debug\net8.0\ref\Lab09.dll
