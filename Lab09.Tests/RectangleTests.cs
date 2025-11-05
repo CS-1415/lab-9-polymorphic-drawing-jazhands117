@@ -8,7 +8,7 @@ public class RectangleTests
     AbstractGraphic2D shape;
 
     [SetUp]
-    /*public void Setup()
+    public void Setup()
     {
         rectangle = new Rectangle(3, 4, 5, 6);
         shape = rectangle;
@@ -17,12 +17,12 @@ public class RectangleTests
     [Test]
     public void EnsurePropertiesAreCorrect()
     {
-        Assert.AreEqual(3, rectangle.Left);
-        Assert.AreEqual(4, rectangle.Top);
+        Assert.AreEqual(3, rectangle.LowerLeftX);
+        Assert.AreEqual(4, rectangle.LowerLeftY);
         Assert.AreEqual(5, rectangle.Width);
         Assert.AreEqual(6, rectangle.Height);
     }
-*/
+
     [Test]
     public void CheckLowerBounds()
     {

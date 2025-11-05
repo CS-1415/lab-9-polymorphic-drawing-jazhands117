@@ -8,7 +8,7 @@ public class CircleTests
     AbstractGraphic2D shape;
 
     [SetUp]
-    /*public void Setup()
+    public void Setup()
     {
         // should be x, y, and radius
         circle = new Circle(8, 10, 2);
@@ -23,7 +23,7 @@ public class CircleTests
         Assert.AreEqual(8, circle.CenterX);
         Assert.AreEqual(10, circle.CenterY);
         Assert.AreEqual(2, circle.Radius);
-    }*/
+    }
 
     [Test]
     public void HasCorrectBoundingBox()
